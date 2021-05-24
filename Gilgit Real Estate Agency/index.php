@@ -12,8 +12,8 @@ if(!$result){
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from thebootstrapthemes.com/live/thebootstrapthemes-realestate/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Apr 2017 02:43:16 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <title>Gilgit Real Estate Agency</title>
 <meta charset="UTF-8" />
